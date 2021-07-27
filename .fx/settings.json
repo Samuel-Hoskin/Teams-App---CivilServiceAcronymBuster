@@ -1,0 +1,19 @@
+{
+    "appName": "CivilServiceAcronymBuster",
+    "projectId": "942fd65f-63d5-4d60-a7fb-42966baee020",
+    "currentEnv": "default",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "capabilities": [
+            "Bot"
+        ],
+        "azureResources": [],
+        "activeResourcePlugins": [
+            "fx-resource-local-debug",
+            "fx-resource-bot",
+            "fx-resource-aad-app-for-teams"
+        ]
+    }
+}
