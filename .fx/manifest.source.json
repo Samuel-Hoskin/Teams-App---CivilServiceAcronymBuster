@@ -5,8 +5,8 @@
     "id": "{appid}",
     "packageName": "com.microsoft.teams.extension",
     "developer": {
-        "name": "Teams App, Inc.",
-        "websiteUrl": "{baseUrl}",
+        "name": "Samuel Hoskin",
+        "websiteUrl": "https://samuel-hoskin.github.io/CS-Acronyms/",
         "privacyUrl": "{baseUrl}/index.html#/privacy",
         "termsOfUseUrl": "{baseUrl}/index.html#/termsofuse"
     },
@@ -15,7 +15,7 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "CivilServiceAcronymBuster",
+        "short": "Civil Service Acronym Buster",
         "full": "This field is not used"
     },
     "description": {
@@ -27,18 +27,14 @@
         {
             "botId": "{botId}",
             "scopes": [
-                "personal",
-                "team",
-                "groupchat"
+                "personal"
             ],
             "supportsFiles": false,
             "isNotificationOnly": false,
             "commandLists": [
                 {
                     "scopes": [
-                        "personal",
-                        "team",
-                        "groupchat"
+                        "personal"
                     ],
                     "commands": [
                         {
