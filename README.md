@@ -1,5 +1,5 @@
 # Civil Service Acronym Buster (Teams-App)
 
-This me steping in to the work of M365 to devlop an MS Teams App that will make sure of the Acronym database and respond to users if they do not know what an acronym means.
+This is my first attempt of developing a teams app and stepping into the world of M365. The ambition is for a User to message a bot, the bot query a database and then returns any matches to the user with it's definition
 
 Strech Goal - Allow users to submit new ones staight from the app
